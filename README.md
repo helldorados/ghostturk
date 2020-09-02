@@ -41,7 +41,7 @@ gives you the power and convenience of remote Android device administration.
 
 ## Ghost installation
 
-> cd ghost
+> cd ghostturk
 
 > chmod +x install.sh
 
@@ -49,7 +49,7 @@ gives you the power and convenience of remote Android device administration.
 
 ## Ghost uninstallation
 
-> cd ghost
+> cd ghostturk
 
 > chmod +x uninstall.sh
 
